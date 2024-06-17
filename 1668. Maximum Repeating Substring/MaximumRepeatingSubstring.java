@@ -6,7 +6,6 @@ class MaximumRepeatingSubstring {
             count++;
             word = word + add;
         }
-        System.out.println(count);
         return count;
     }
 
